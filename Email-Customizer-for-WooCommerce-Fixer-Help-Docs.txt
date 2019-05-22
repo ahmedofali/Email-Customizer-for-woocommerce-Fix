@@ -1,0 +1,3 @@
+Email Customizer for WooCommerce Fixer
+
+This Plugin Fixes problems appeared on Email Customizer for WooCommerce on checkout pages
